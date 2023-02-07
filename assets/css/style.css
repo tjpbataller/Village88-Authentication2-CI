@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+form{
+    margin: 50px auto;
+    width: 200px;
+}
+fieldset{
+    padding: 20px;
+}
+input,
+label{
+    margin-bottom: 10px;
+}
